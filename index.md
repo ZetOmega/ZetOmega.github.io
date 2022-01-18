@@ -1,5 +1,3 @@
 Hello World
 
-such fancy
-such fun
-such incredible
+such fancy, such fun, such incredible
